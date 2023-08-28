@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rida Ali Deeb</h1>
 <h3 align="center">A current Computer Engineering Student and an aspiring software developer.</h3>
-
+<img align="right" alt="Coding lazily" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 <p align="left"> <a href="https://twitter.com/redaisnothere" target="blank"><img src="https://img.shields.io/twitter/follow/redaisnothere?logo=twitter&style=for-the-badge" alt="redaisnothere" /></a> </p>
 
 - 🔭 I’m currently working on **mastering Web Development**
