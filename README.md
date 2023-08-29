@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridaalideeb123&" alt="ridaalideeb123" /></p>
 
-
+<img align="center" alt="Animated Skills Bar" width="400" src="https://ridaalideeb123.github.io/Animated-Skills-Bar/" />
